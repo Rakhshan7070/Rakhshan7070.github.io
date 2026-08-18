@@ -1,0 +1,26 @@
+[
+  {
+    "period": "2025 → Present",
+    "title": "Android / AOSP Development",
+    "role": "Open-source systems work",
+    "description": "Working across custom ROMs, device bring-up, kernels, vendor integration, proprietary blobs and debugging on Snapdragon-based Motorola platforms."
+  },
+  {
+    "period": "2026",
+    "title": "Build Infrastructure & CI",
+    "role": "Automation / GitHub Actions",
+    "description": "Designing Android build workflows with authorization, runner checks, fallback builders, artifact handling and notification systems."
+  },
+  {
+    "period": "2025 → Present",
+    "title": "Linux & Systems Exploration",
+    "role": "Independent engineering",
+    "description": "Working with Linux, shell tooling, networking, build environments and the lower layers that make software dependable on real machines."
+  },
+  {
+    "period": "Ongoing",
+    "title": "Open Source & Community",
+    "role": "Contributor / builder",
+    "description": "Interested in sustainable open-source communities, better contributor workflows and making technical learning more accessible."
+  }
+]

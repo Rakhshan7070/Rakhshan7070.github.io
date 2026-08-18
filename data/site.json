@@ -1,0 +1,42 @@
+{
+  "firstName": "Rakhshan",
+  "lastName": "Ali",
+  "roleLine": "Open Source Engineer · AOSP Developer · Linux Enthusiast",
+  "intro": "I build things close to the system — from Android platform work and device bring-up to Linux tooling, automation and open-source infrastructure.",
+  "currentWork": "Motorola Parrot Device Development",
+  "currentWorkUrl": "https://github.com/",
+  "about": "Most of my work lives somewhere between software and hardware. I enjoy taking unfamiliar systems apart, finding the layer that actually matters, and building something useful from it. AOSP, Linux, C/C++, device trees, CI and open-source communities are the areas I keep coming back to. I also care about technology as a way to create opportunity, especially for women entering technical fields.",
+  "quote": "Code is not just what I write — it's how I solve problems and leave things better than I found them.",
+  "techMore": 8,
+  "tech": [
+    { "short": "🐧", "label": "Linux", "url": "https://kernel.org/" },
+    { "short": "AOSP", "label": "Android Open Source Project", "url": "https://source.android.com/" },
+    { "short": "C++", "label": "C++", "url": "https://isocpp.org/" },
+    { "short": "C", "label": "C", "url": "https://en.cppreference.com/w/c" },
+    { "short": "SH", "label": "Shell Scripting", "url": "https://www.gnu.org/software/bash/" },
+    { "short": "GIT", "label": "Git", "url": "https://git-scm.com/" },
+    { "short": "PY", "label": "Python", "url": "https://www.python.org/" },
+    { "short": "GH", "label": "GitHub Actions", "url": "https://docs.github.com/en/actions" },
+    { "short": "DT", "label": "Device Trees", "url": "https://www.devicetree.org/" },
+    { "short": "KRNL", "label": "Kernel Dev", "url": "https://kernel.org/doc/html/latest/" },
+    { "short": "CI", "label": "CI/CD Pipelines", "url": "https://en.wikipedia.org/wiki/CI/CD" },
+    { "short": "DOCK", "label": "Docker", "url": "https://www.docker.com/" },
+    { "short": "API", "label": "REST APIs", "url": "https://en.wikipedia.org/wiki/API" },
+    { "short": "SYS", "label": "Systems Arch", "url": "https://en.wikipedia.org/wiki/Systems_architecture" }
+  ],
+  "interests": ["Linux", "AOSP", "Android", "C / C++", "Kernels", "Device Trees", "CI/CD", "GitHub Actions", "Open Source", "Automation", "Women in Tech"],
+  "services": [
+    { "icon": "▣", "title": "AOSP Development", "description": "Custom ROMs, device bring-up, system integration and Android platform work." },
+    { "icon": "⌁", "title": "Linux & Systems", "description": "Shell scripting, tooling, debugging and exploring the layers underneath." },
+    { "icon": "</>", "title": "Open Source", "description": "Building, documenting and maintaining projects that others can use." },
+    { "icon": "◈", "title": "CI/CD & DevOps", "description": "GitHub Actions, build automation, workflows and reproducible systems." }
+  ],
+  "links": {
+    "github": "https://github.com/",
+    "telegram": "https://telegram.org/",
+    "linkedin": "https://www.linkedin.com/",
+    "gitlab": "https://gitlab.com/",
+    "discord": "https://discord.com/",
+    "email": "hello@example.com"
+  }
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "motorola-parrot",
+    "title": "Motorola Parrot Device Development",
+    "category": "AOSP",
+    "year": "2025–26",
+    "featured": true,
+    "icon": "A",
+    "image": "assets/img/demo.png", 
+    "shortDescription": "Device trees and custom ROM work for Snapdragon platforms.",
+    "description": "Android device development across device trees, vendor integration, kernels, proprietary blobs and custom ROM bring-up for Motorola Snapdragon devices.",
+    "tags": ["AOSP", "Android", "Linux", "Kernel"],
+    "links": [
+      { "label": "GitHub Repo ↗", "url": "https://github.com/" },
+      { "label": "XDA Thread ↗", "url": "https://xdaforums.com/" }
+    ]
+  },
+  {
+    "id": "risingos-builder",
+    "title": "RisingOS Revived Builder",
+    "category": "CI/CD",
+    "year": "2026",
+    "featured": true,
+    "icon": "CI",
+    "shortDescription": "Automated Android builds with GitHub Actions.",
+    "description": "A build workflow with authorization checks, usage limits, runner availability detection, fallback builders, artifacts and notification hooks.",
+    "tags": ["GitHub Actions", "CI/CD", "Automation", "Python"],
+    "links": [
+      { "label": "Source Code ↗", "url": "https://github.com/" }
+    ]
+  },
+  {
+    "id": "cuscoi-rom",
+    "title": "Custom ROM — Snapdragon 7s Gen 2",
+    "category": "Android",
+    "year": "2025–26",
+    "featured": true,
+    "icon": "7S",
+    "shortDescription": "AOSP-based ROM bring-up and device integration.",
+    "description": "Custom Android platform work involving kernel/device trees, vendor blobs, recovery flashing workflows, overlays and debugging platform-specific issues.",
+    "tags": ["AOSP", "LineageOS", "Android", "Linux"],
+    "links": [
+      { "label": "Repository ↗", "url": "https://github.com/" }
+    ]
+  },
+  {
+    "id": "extraction-tooling",
+    "title": "Android Extraction Tooling",
+    "category": "Tooling",
+    "year": "2025–26",
+    "featured": true,
+    "icon": "EX",
+    "shortDescription": "Scripts for firmware, blobs, APK resources and builds.",
+    "description": "A collection of scripts and tooling for extracting proprietary files, processing APK overlays/resources and preparing Android build environments.",
+    "tags": ["Python", "Shell", "Android", "Tooling"],
+    "links": [
+      { "label": "Tools Repo ↗", "url": "https://github.com/" }
+    ]
+  },
+  {
+    "id": "mega-ftp",
+    "title": "Multi-Account Mega FTP",
+    "category": "Systems",
+    "year": "2025",
+    "featured": false,
+    "icon": "FTP",
+    "shortDescription": "FTP access layer for multiple cloud accounts.",
+    "description": "An experiment around aggregating multiple storage accounts behind a single FTP interface, with account configuration and server-side orchestration.",
+    "tags": ["Python", "FTP", "Automation"],
+    "links": [
+      { "label": "View Project ↗", "url": "https://github.com/" }
+    ]
+  },
+  {
+    "id": "notion-automation",
+    "title": "Notion Workflow Automation",
+    "category": "Automation",
+    "year": "2025",
+    "featured": false,
+    "icon": "N",
+    "shortDescription": "Automated page and database workflows.",
+    "description": "Exploration of scheduled content creation and database updates using the Notion API and automation workflows.",
+    "tags": ["API", "Automation", "JavaScript"],
+    "links": [
+      { "label": "Script Repo ↗", "url": "https://github.com/" }
+    ]
+  }
+]

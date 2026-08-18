@@ -1,0 +1,33 @@
+[
+  {
+    "id": "aosp-build-env",
+    "title": "Reproducible AOSP Build Environments",
+    "date": "2026",
+    "image": "assets/img/demo.png",
+    "description": "A comprehensive guide to setting up a reproducible Android build environment using containerized Linux tools and avoiding dependency hell.",
+    "tags": ["AOSP", "Linux", "Docker"],
+    "links": [
+      { "label": "Read Guide ↗", "url": "https://github.com/" }
+    ]
+  },
+  {
+    "id": "snapdragon-dt",
+    "title": "Understanding Snapdragon Device Trees",
+    "date": "2025",
+    "description": "Breaking down the structure of device trees for Motorola Snapdragon devices, compiling them, and debugging kernel panics.",
+    "tags": ["Device Trees", "Kernel", "Android"],
+    "links": [
+      { "label": "Read Guide ↗", "url": "https://github.com/" }
+    ]
+  },
+  {
+    "id": "github-actions-ci",
+    "title": "Android CI/CD with GitHub Actions",
+    "date": "2026",
+    "description": "How to automate custom ROM builds using GitHub Actions, including runner checks, fallback builders, and artifact uploading.",
+    "tags": ["CI/CD", "Automation", "GitHub Actions"],
+    "links": [
+      { "label": "Read Guide ↗", "url": "https://github.com/" }
+    ]
+  }
+]

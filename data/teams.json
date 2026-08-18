@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "// OSS",
+    "name": "Open Source",
+    "description": "Contribute, document, automate and leave useful systems behind for the next developer.",
+    "url": "https://opensource.org/"
+  },
+  {
+    "icon": "// LINUX",
+    "name": "Linux Community",
+    "description": "A place for systems programming, debugging, kernels, tooling and learning how computers actually work.",
+    "url": "https://kernel.org/"
+  },
+  {
+    "icon": "// AOSP",
+    "name": "Android / AOSP",
+    "description": "Platform engineering around device trees, kernels, vendor integration and custom ROM ecosystems.",
+    "url": "https://source.android.com/"
+  },
+  {
+    "icon": "// PEOPLE",
+    "name": "Women in Tech",
+    "description": "Technology should create opportunity. Supporting more women entering and growing in technical fields matters.",
+    "url": "https://www.unwomen.org/"
+  },
+  {
+    "icon": "// BUILD",
+    "name": "Build Together",
+    "description": "Clear contribution paths and automation can turn individual experiments into maintainable community projects.",
+    "url": "https://docs.github.com/en/actions"
+  },
+  {
+    "icon": "// LEARN",
+    "name": "Learn in Public",
+    "description": "Document the difficult parts, publish experiments and leave breadcrumbs for whoever comes next.",
+    "url": "https://github.com/"
+  }
+]

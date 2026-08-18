@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080b12">
+  <title>Rakhshan Ali — Open Source Engineer</title>
+  <link rel="icon" type="image/png" href="assets/img/profile.png">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+  <div class="ambient a"></div>
+  <div class="ambient b"></div>
+  <div class="grid"></div>
+
+  <header class="top">
+    <a class="brand" href="index.html">
+      <img class="brand-avatar" src="assets/img/profile.png" alt="Logo">
+      <span><strong>Rakhshan Ali</strong><small>Open Source Engineer</small></span>
+      <i></i>
+    </a>
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="experience.html">Experience</a>
+      <a href="teams.html">Teams</a>
+      <a href="guides.html">Guides</a>
+      <a href="about.html">About</a>
+    </nav>
+    <div class="actions">
+      <button id="theme">☾</button>
+      <button id="menu">☰</button>
+    </div>
+  </header>
+
+  <aside class="rail">
+    <span></span>
+    <a id="gh" title="GitHub"><img src="assets/img/github.png" alt="GitHub"></a>
+    <a id="li" title="LinkedIn"><img src="assets/img/linkedin.png" alt="LinkedIn"></a>
+    <a id="tg" title="Telegram"><img src="assets/img/telegram.png" alt="Telegram"></a>
+    <a id="gl" title="GitLab"><img src="assets/img/gitlab.png" alt="GitLab"></a>
+    <a id="dc" title="Discord"><img src="assets/img/discord.png" alt="Discord"></a>
+    <a id="ml" title="Email"><img src="assets/img/email.png" alt="Email"></a>
+    <span></span>
+  </aside>
+
+  <div id="mobileNav" class="mobile-nav">
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="experience.html">Experience</a>
+    <a href="teams.html">Teams</a>
+    <a href="guides.html">Guides</a>
+    <a href="about.html">About</a>
+  </div>
+
+  <main>
+    <section class="hero wrap">
+      <div class="hero-card glass">
+        <div class="copy">
+          <small class="eyebrow">✦ Hi, I'm</small>
+          <h1 id="name"></h1>
+          <div id="role" class="pill"></div>
+          <p id="intro"></p>
+          <div class="buttons">
+            <a class="btn primary" href="projects.html">View my work →</a>
+            <a id="emailBtn" class="btn" href="#">Contact me ↗</a>
+          </div>
+          <small class="label">Tech I work with</small>
+          <div id="tech" class="tech"></div>
+        </div>
+        <div class="visual">
+          <div class="glow g1"></div><div class="glow g2"></div>
+          <div class="wire w1"></div><div class="wire w2"></div>
+          <div class="dots"></div>
+          <div class="person">
+            <img src="assets/img/profile.png" alt="Rakhshan Ali">
+          </div>
+          <a id="statusBox" href="#" target="_blank" rel="noreferrer" class="status glass">
+            <i></i><span><small>Currently working on</small><strong id="current"></strong></span><b>→</b>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="quick wrap">
+      <article class="glass panel"><h2>✦ What I do</h2><div id="services"></div></article>
+      <article class="glass panel"><h2>▣ Latest Projects <a href="projects.html">View all</a></h2><div id="featured"></div></article>
+      <article class="glass panel"><h2>▰ Experience <a href="experience.html">View all</a></h2><div id="miniExp"></div></article>
+    </section>
+  </main>
+
+  <footer class="footer wrap">
+    <span><b>RAKHSHAN ALI</b> Built with curiosity, Linux and too many terminals.</span>
+    <span><a id="fgh">GitHub ↗</a> <a id="fmail">Email ↗</a></span>
+  </footer>
+
+  <dialog id="dialog"><button id="close">×</button><div id="dialogBody"></div></dialog>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
